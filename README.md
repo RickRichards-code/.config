@@ -1,5 +1,2 @@
-# .config
-# .config
-# .config
-# .config
-# .config
+# configuracion linux 
+
